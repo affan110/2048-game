@@ -1,4 +1,4 @@
-# 🎮 2048 Game Implementation (React.js)
+# 🎮 2048 Game Implementation
 
 ##  Objective
 A functional implementation of the classic **2048 Game** using **React.js**.  
