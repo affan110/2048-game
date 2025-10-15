@@ -1,0 +1,87 @@
+.app {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #776e65;
+}
+
+.top-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.game-title {
+  font-size: 64px;
+  font-weight: 800;
+  color: #776e65;
+  background: #edc22e;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 0;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.score-card {
+  background: #bbada0;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 8px;
+  text-align: center;
+  min-width: 70px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.score-card .label {
+  margin: 0;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.score-card .value {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.new-game-btn {
+  padding: 10px 18px;
+  background: #8f7a66;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 15px;
+  transition: background 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.new-game-btn:hover {
+  background: #9c8570;
+}
+
+.overlay {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 6px;
+  color: #fff;
+}
+
+.win {
+  background-color: #edc22e;
+}
+
+.lose {
+  background-color: #e74c3c;
+}
