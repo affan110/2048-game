@@ -90,4 +90,4 @@ src/
 
 **Abu Affan**
 M.Tech, Computer Science & Engineering — NIT Rourkela
-📧 [affan110@gmail.com](mailto:affan110@gmail.com)
+📧 [abaffan.111@gmail.com](mailto:abaffan.111@gmail.com)
